@@ -16,6 +16,12 @@ Or [Join the Rootiest Discord server](https://discord.gg/AYjVSvrVF2) for support
   <img alt="Shows a snake consuming the squares from the rootiest contributions graph." src="resources/github-snake.svg">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-gitblock.svg">
+  <img alt="Shows an animated chart of the rootiest contributions." src="profile-3d-contrib/profile-gitblock.svg">
+</picture>
+
 <!--
 **rootiest/rootiest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
