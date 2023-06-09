@@ -8,6 +8,10 @@ Reach me at:
 
 Rootiest#5668 on Discord (Voron and Klipper servers)
 
+Donate to support my work:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/rootiest)
+
 Or [Join the Rootiest Discord server](https://discord.gg/AYjVSvrVF2) for support and community interaction for my projects.
 
 <picture>
