@@ -6,13 +6,13 @@ I'm currently spending most of my time working on [Klipper](https://klipper3d.or
 
 Reach me at:
 
-Rootiest#5668 on Discord (Voron and Klipper servers)
+Rootiest on Discord (Voron and Klipper servers)
 
 Donate to support my work:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/rootiest)
 
-Or [Join the Rootiest Discord server](https://discord.gg/AYjVSvrVF2) for support and community interaction for my projects.
+Or [Join the Rootiest Discord server](http://rootiest.com/discord.html) for support and community interaction for my projects.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="resources/github-snake-dark.svg">
