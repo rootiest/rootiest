@@ -4,16 +4,13 @@ I'm a software developer and maker.
 
 I'm currently spending most of my time working on [Klipper](https://klipper3d.org) and [Voron](https://vorondesign.com) related projects.
 
-Reach me at:
-
-Rootiest on Discord (Voron and Klipper servers)
-
-Donate to support my work:
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/rootiest)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/rootiest)  
+If you like my work, consider buying me a coffee.
 
 [![Join the Rootiest Discord server](resources/discord-banner.png)](http://rootiest.com/discord.html)  
 Stop by on Discord for support and community interaction for my projects.
+
+Or contact me directly ![logo](resources/logo-xsmall.png)[@Rootiest]() on Discord
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="resources/github-snake-dark.svg">
