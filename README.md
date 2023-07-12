@@ -26,7 +26,7 @@ Stop by on Discord for support and community interaction for my projects.
 
 ---
 
-📫How to reach me:  
+**📫How to reach me:**  
 ![logo](resources/logo-xsmall.png)[@Rootiest]() on Discord  
 ![logo](resources/logo-xsmall.png)[@rootiest@fosstodon.org](https://fosstodon.org/@rootiest) on Mastodon  
 ![logo](resources/logo-xsmall.png)[@Rootiest@lemmy.world](https://lemmy.world/u/Rootiest) on Lemmy  
@@ -34,7 +34,7 @@ Stop by on Discord for support and community interaction for my projects.
 ![logo](resources/logo-xsmall.png)[@rootiest:matrix.org](https://matrix.to/#/@rootiest:matrix.org) by Matrix  
 ![logo](resources/logo-xsmall.png)[chris@rootiest.com](mailto:chris@rootiest.com) by email
 
-I prefer Discord for informal communications, but I'm happy to use any of these.
+GPG: [ 37FC35E99FC824927707DE4C355DD4B4902F72A6](https://keys.openpgp.org/vks/v1/by-fingerprint/37FC35E99FC824927707DE4C355DD4B4902F72A6)
 
 ---
 
