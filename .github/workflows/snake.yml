@@ -18,11 +18,11 @@ jobs:
           persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
           fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
       - name: make-snake
-        uses: Platane/snk@v2
-        with:
+      uses: Platane/snk@v3
+      with:
           # github user name to read the contribution graph from (**required**)
           # using action context var `github.repository_owner` or specified user
-          github_user_name: rootiest
+          github_user_name: ${{ github.repository_owner }}
 
           # list of files to generate.
           # one file per line. Each output can be customized with options as query string.
