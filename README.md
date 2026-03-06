@@ -73,7 +73,7 @@ If you need to send me sensitive information or verify my digital signatures, yo
 - **User:** Chris Laprade (Rootiest) <chris@rootiest.com>
 - **Master Key ID:** `35294DF70BFCE0CB`
 - **Fingerprint:** (Run `gpg --fingerprint 35294DF70BFCE0CB` to get the full string)
-- **Download:** Download my public keyfile: [rootiest.asc](./rootiest.asc)
+- **Download:** Download my public keyfile: [rootiest.asc](https://git.rootiest.dev/rootiest/.profile/raw/branch/main/rootiest.asc)
 
 <details>
 <summary>Click to view Public Key Block</summary>
