@@ -6,7 +6,7 @@
 
 I'm a software developer and maker.
 
-I'm currently spending most of my time working on
+I'm currently spending much of my time working on
 [Klipper](https://klipper3d.org) and
 [Voron](https://vorondesign.com) related projects.
 
