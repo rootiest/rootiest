@@ -50,6 +50,8 @@ Stop by on Discord for support and community interaction for my projects.
 ![logo](resources/logo-xsmall.png)
 [@rootiest@fosstodon.org](https://fosstodon.org/@rootiest) on Mastodon  
 ![logo](resources/logo-xsmall.png)
+[@rootiest.com](https://bsky.app/profile/rootiest.com) on BlueSky  
+![logo](resources/logo-xsmall.png)
 [@Rootiest@lemmy.world](https://lemmy.world/u/Rootiest) on Lemmy  
 ![logo](resources/logo-xsmall.png)
 [Rootiest](https://rootiest.slack.com) on Slack  
@@ -59,10 +61,7 @@ Stop by on Discord for support and community interaction for my projects.
 [chris@rootiest.com](mailto:chris@rootiest.com) by email
 
 > [!NOTE]
-> I recommend contacting me via Matrix for best visibility,
-but if you are unable to then I will typically
-respond on Discord.
-(However I prefer a more secure communications protocol)
+> Matrix is my preferred method of contact.  
+> However, I will typically also respond quickly on Discord.
 
 GPG: [37FC35E99FC824927707DE4C355DD4B4902F72A6](https://keys.openpgp.org/vks/v1/by-fingerprint/37FC35E99FC824927707DE4C355DD4B4902F72A6)
-
