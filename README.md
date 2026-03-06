@@ -45,7 +45,8 @@ Stop by on Discord for support and community interaction for my projects.
 
 ---
 
-**📫How to reach me:**  
+#### 📫 How to reach me
+
 ![logo](resources/logo-xsmall.png)[@Rootiest]() on Discord  
 ![logo](resources/logo-xsmall.png)
 [@rootiest@fosstodon.org](https://fosstodon.org/@rootiest) on Mastodon  
