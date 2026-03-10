@@ -23,9 +23,9 @@ I'm a software developer and maker currently spending most of my time on [Klippe
 
 My configs are open source and available here:
 
-| Project | Link |
-|---------|------|
-| 🗂️ Dotfiles | [rootiest/dotfiles](https://github.com/rootiest/dotfiles) |
+| Project          | Link                                                                |
+| ---------------- | ------------------------------------------------------------------- |
+| 🗂️ Dotfiles      | [rootiest/dotfiles](https://github.com/rootiest/dotfiles)           |
 | 📝 Neovim Config | [rootiest/rootiest-nvim](https://github.com/rootiest/rootiest-nvim) |
 
 ---
@@ -49,15 +49,16 @@ My configs are open source and available here:
 
 ## 🌐 Self-Hosted Services
 
-| Service | Stack | Description |
-|---------|-------|-------------|
-| [🐙 Rootiest Gitea](https://git.rootiest.dev) | Gitea | Git repository server |
-| [📋 Rootiest Gists](https://gists.rootiest.dev) | OpenGist | Single-file code & text sharing |
-| [🔗 Rootiest Shorties](https://url.rootiest.dev) | URL Shortener | Short URLs that forward anywhere |
-| [📝 Rootiest Notes](https://notes.rootiest.dev) | Memos | Markdown notes (à la Google Keep) |
-| [🔐 Rootiest Vault](https://vault.rootiest.dev) | Vaultwarden | BitWarden-compatible password manager |
-| [⏱️ Rootiest Wakatime](https://wakatime.rootiest.dev) | WakAPI | Coding stats with no retention limits |
-| [📷 Rootiest Photos](https://photos.rootiest.dev) | Immich | Photo storage & organization *(invite only)* |
+| Service                                               | Stack                                                     | Description                                  |
+| ----------------------------------------------------- | --------------------------------------------------------- | -------------------------------------------- |
+| [🐙 Rootiest Gitea](https://git.rootiest.dev)         | [Gitea](https://github.com/go-gitea/gitea)                | Git repository server                        |
+| [📋 Rootiest Gists](https://gists.rootiest.dev)       | [OpenGist](https://github.com/thomiceli/opengist)         | Single-file code & text sharing              |
+| [🔗 Rootiest Shorties](https://url.rootiest.dev)      | [Kutt](https://github.com/thedevs-network/kutt/)          | Short URLs that forward anywhere             |
+| [📝 Rootiest Notes](https://notes.rootiest.dev)       | [Memos](https://github.com/usememos/memos)                | Markdown notes (à la Google Keep)            |
+| [🔐 Rootiest Vault](https://vault.rootiest.dev)       | [Vaultwarden](https://github.com/dani-garcia/vaultwarden) | BitWarden-compatible password manager        |
+| [⏱️ Rootiest Wakatime](https://wakatime.rootiest.dev) | [WakAPI](https://github.com/muety/wakapi)                 | Coding stats with no retention limits        |
+| [📷 Rootiest Photos](https://photos.rootiest.dev)     | [Immich](https://github.com/immich-app/immich)            | Photo storage & organization _(invite only)_ |
+| [📁 Rootiest Files](https://files.rootiest.dev)       | [SFTPGo](https://github.com/drakkan/sftpgo)               | File server _(invite only)_                  |
 
 > More services will be added over time!
 
@@ -76,14 +77,14 @@ Stop by for support and community interaction around my projects.
 ## 📫 How to Reach Me
 
 <p>
+  <a href="https://matrix.to/#/@rootiest:matrix.org"><img src="https://img.shields.io/badge/Matrix-@rootiest:matrix.org-000000?style=flat-square&logo=matrix&logoColor=white" alt="Matrix"/></a>
   <a href="http://rootiest.com/discord.html"><img src="https://img.shields.io/badge/Discord-@Rootiest-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="https://fosstodon.org/@rootiest"><img src="https://img.shields.io/badge/Mastodon-@rootiest@fosstodon.org-6364FF?style=flat-square&logo=mastodon&logoColor=white" alt="Mastodon"/></a>
   <a href="https://bsky.app/profile/rootiest.com"><img src="https://img.shields.io/badge/BlueSky-@rootiest.com-0285FF?style=flat-square&logo=bluesky&logoColor=white" alt="BlueSky"/></a>
-  <br/>
+  <a href="mailto:chris@rootiest.com"><img src="https://img.shields.io/badge/Email-chris@rootiest.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <br>
+  <a href="https://fosstodon.org/@rootiest"><img src="https://img.shields.io/badge/Mastodon-@rootiest@fosstodon.org-6364FF?style=flat-square&logo=mastodon&logoColor=white" alt="Mastodon"/></a>
   <a href="https://lemmy.world/u/Rootiest"><img src="https://img.shields.io/badge/Lemmy-@Rootiest@lemmy.world-FF6600?style=flat-square&logo=lemmy&logoColor=white" alt="Lemmy"/></a>
   <a href="https://rootiest.slack.com"><img src="https://img.shields.io/badge/Slack-Rootiest-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Slack"/></a>
-  <a href="https://matrix.to/#/@rootiest:matrix.org"><img src="https://img.shields.io/badge/Matrix-@rootiest:matrix.org-000000?style=flat-square&logo=matrix&logoColor=white" alt="Matrix"/></a>
-  <a href="mailto:chris@rootiest.com"><img src="https://img.shields.io/badge/Email-chris@rootiest.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 > [!NOTE]
@@ -95,6 +96,11 @@ Stop by for support and community interaction around my projects.
 ## 🔐 PGP Public Key
 
 If you need to send me sensitive information or verify my digital signatures, you can use my PGP public key.
+
+> [!TIP]
+> When emailing me, encrypting with my PGP key is appreciated.  
+> My Sieve filters prioritize encrypted mail, so it's less likely to
+> end up in a folder I check infrequently.
 
 - **User:** Chris Laprade (Rootiest) `<chris@rootiest.com>`
 - **Key ID:** `35294DF70BFCE0CB`
