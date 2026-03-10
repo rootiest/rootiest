@@ -1,83 +1,108 @@
-### Hi I'm Rootiest 👋
+<p align="center">
+  <img src="resources/logo.png" width="130" alt="Rootiest Logo" />
+</p>
 
-- Name: Chris (or rootiest)
-- he/him
-- MA, USA (English)
+<h1 align="center">Hi, I'm Chris — aka Rootiest 👋</h1>
 
-I'm a software developer and maker.
+<p align="center">
+  <strong>Software Developer · Maker · Self-Hoster</strong><br/>
+  📍 MA, USA &nbsp;•&nbsp; he/him
+</p>
 
-I'm currently spending much of my time working on
-[Klipper](https://klipper3d.org) and
-[Voron](https://vorondesign.com) related projects.
-
-My dotfiles are available
-[here](https://github.com/rootiest/dotfiles).
-
-My neovim dotfiles are available
-[here](https://github.com/rootiest/rootiest-nvim).
-
-I've also designed some PCBs for 3D printers and home automation projects.
-
-I enjoy self-hosting, here are a few of my public services:
-
-- [Rootiest Gitea](https://git.rootiest.dev) (Gitea Instance) - Git repository server (like Github)
-- [Rootiest Gists](https://gists.rootiest.dev) (OpenGist Instance) - Code-sharing server (easily share single-file code/text)
-- [Rootiest Shorties](https://url.rootiest.dev) (URL Shortener) - Make short URLs that forward to long addresses
-- [Rootiest Notes](https://notes.rootiest.dev) (Notes/Memos Server) - Like Google Keep with MarkDown support
-- [Rootiest Vault](https://vault.rootiest.dev) (VaultWarden Instance) - BitWarden-based password manager
-- [Rootiest Wakatime](https://wakatime.rootiest.dev) (WakAPI Instance) - Tracks coding statistics without retention limits
-- [Rootiest Photos](https://photos.rootiest.dev) (Immich Instance) - Photo storing and organizing (requires invite due to storage costs)
-- More will probably be added to this list over time as I find more fun services to host!
+<p align="center">
+  <a href="https://rootiest.com"><img src="https://img.shields.io/badge/Website-rootiest.com-E63946?style=flat-square&logo=firefox-browser&logoColor=white" alt="Website"/></a>
+  <a href="https://ko-fi.com/rootiest"><img src="https://img.shields.io/badge/Ko--fi-Buy_me_a_coffee-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white" alt="Ko-fi"/></a>
+  <a href="https://wakatime.com/@e52fe977-226c-492e-bfc3-861e5fb35965"><img src="https://wakatime.com/badge/user/e52fe977-226c-492e-bfc3-861e5fb35965.svg" alt="WakaTime"/></a>
+</p>
 
 ---
 
-[![wakatime](https://wakatime.com/badge/user/e52fe977-226c-492e-bfc3-861e5fb35965.svg)
-](https://wakatime.com/@e52fe977-226c-492e-bfc3-861e5fb35965)
-Check out my coding metrics.
+## 🧑‍💻 About Me
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)
-](https://ko-fi.com/rootiest)
-If you like my work, consider buying me a coffee.
+I'm a software developer and maker currently spending most of my time on [Klipper](https://klipper3d.org) and [Voron](https://vorondesign.com) related projects. I've also designed PCBs for 3D printers and home automation, and I'm an avid self-hoster — running a suite of public services for my community.
 
-[![Join the Rootiest Discord server](resources/discord-banner.png)
-](http://rootiest.com/discord.html)
-Stop by on Discord for support and community interaction for my projects.
+My configs are open source and available here:
+
+| Project | Link |
+|---------|------|
+| 🗂️ Dotfiles | [rootiest/dotfiles](https://github.com/rootiest/dotfiles) |
+| 📝 Neovim Config | [rootiest/rootiest-nvim](https://github.com/rootiest/rootiest-nvim) |
 
 ---
 
-#### 📫 How to reach me
+## 🛠️ Tech Stack
 
-![logo](resources/logo-xsmall.png)[@Rootiest]() on Discord  
-![logo](resources/logo-xsmall.png)
-[@rootiest@fosstodon.org](https://fosstodon.org/@rootiest) on Mastodon  
-![logo](resources/logo-xsmall.png)
-[@rootiest.com](https://bsky.app/profile/rootiest.com) on BlueSky  
-![logo](resources/logo-xsmall.png)
-[@Rootiest@lemmy.world](https://lemmy.world/u/Rootiest) on Lemmy  
-![logo](resources/logo-xsmall.png)
-[Rootiest](https://rootiest.slack.com) on Slack  
-![logo](resources/logo-xsmall.png)
-[@rootiest:matrix.org](https://matrix.to/#/@rootiest:matrix.org) by Matrix  
-![logo](resources/logo-xsmall.png)
-[chris@rootiest.com](mailto:chris@rootiest.com) by email
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" alt="Neovim"/>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Gitea-609926?style=flat-square&logo=gitea&logoColor=white" alt="Gitea"/>
+</p>
+
+---
+
+## 🌐 Self-Hosted Services
+
+| Service | Stack | Description |
+|---------|-------|-------------|
+| [🐙 Rootiest Gitea](https://git.rootiest.dev) | Gitea | Git repository server |
+| [📋 Rootiest Gists](https://gists.rootiest.dev) | OpenGist | Single-file code & text sharing |
+| [🔗 Rootiest Shorties](https://url.rootiest.dev) | URL Shortener | Short URLs that forward anywhere |
+| [📝 Rootiest Notes](https://notes.rootiest.dev) | Memos | Markdown notes (à la Google Keep) |
+| [🔐 Rootiest Vault](https://vault.rootiest.dev) | Vaultwarden | BitWarden-compatible password manager |
+| [⏱️ Rootiest Wakatime](https://wakatime.rootiest.dev) | WakAPI | Coding stats with no retention limits |
+| [📷 Rootiest Photos](https://photos.rootiest.dev) | Immich | Photo storage & organization *(invite only)* |
+
+> More services will be added over time!
+
+---
+
+## 💬 Community
+
+<a href="http://rootiest.com/discord.html">
+  <img src="resources/discord-banner.png" alt="Join the Rootiest Discord server" width="300"/>
+</a>
+
+Stop by for support and community interaction around my projects.
+
+---
+
+## 📫 How to Reach Me
+
+<p>
+  <a href="http://rootiest.com/discord.html"><img src="https://img.shields.io/badge/Discord-@Rootiest-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://fosstodon.org/@rootiest"><img src="https://img.shields.io/badge/Mastodon-@rootiest@fosstodon.org-6364FF?style=flat-square&logo=mastodon&logoColor=white" alt="Mastodon"/></a>
+  <a href="https://bsky.app/profile/rootiest.com"><img src="https://img.shields.io/badge/BlueSky-@rootiest.com-0285FF?style=flat-square&logo=bluesky&logoColor=white" alt="BlueSky"/></a>
+  <br/>
+  <a href="https://lemmy.world/u/Rootiest"><img src="https://img.shields.io/badge/Lemmy-@Rootiest@lemmy.world-FF6600?style=flat-square&logo=lemmy&logoColor=white" alt="Lemmy"/></a>
+  <a href="https://rootiest.slack.com"><img src="https://img.shields.io/badge/Slack-Rootiest-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Slack"/></a>
+  <a href="https://matrix.to/#/@rootiest:matrix.org"><img src="https://img.shields.io/badge/Matrix-@rootiest:matrix.org-000000?style=flat-square&logo=matrix&logoColor=white" alt="Matrix"/></a>
+  <a href="mailto:chris@rootiest.com"><img src="https://img.shields.io/badge/Email-chris@rootiest.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 > [!NOTE]
-> Matrix is my preferred method of contact.  
+> Matrix is my preferred method of contact.
 > However, I will typically also respond quickly on Discord.
 
 ---
 
-#### 🔐 PGP Public Key
+## 🔐 PGP Public Key
 
 If you need to send me sensitive information or verify my digital signatures, you can use my PGP public key.
 
-- **User:** Chris Laprade (Rootiest) <chris@rootiest.com>
-- **Master Key ID:** `35294DF70BFCE0CB`
-- **Fingerprint:** (Run `gpg --fingerprint 35294DF70BFCE0CB` to get the full string)
-- **Download:** Download my public keyfile: [rootiest.asc](https://git.rootiest.dev/rootiest/.profile/raw/branch/main/rootiest.asc)
+- **User:** Chris Laprade (Rootiest) `<chris@rootiest.com>`
+- **Key ID:** `35294DF70BFCE0CB`
+- **Fingerprint:** Run `gpg --fingerprint 35294DF70BFCE0CB` to verify
+- **Download:** [rootiest.asc](https://git.rootiest.dev/rootiest/.profile/raw/branch/main/rootiest.asc)
 
 <details>
-<summary>Click to view Public Key Block</summary>
+<summary>🔑 Click to view Public Key Block</summary>
 
 ```pgp
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -135,10 +160,7 @@ bAtT/m1XnxAZsGIgqn7BUB2EZjpp2ouo7HbJtT/m1Xm7DB3g4mFfvDRnSadJoiEb
 dAnTWVAo4tSHbN3bAvRPy1ayDJlX+vADiLVB58VX+rLji7tk3pnDWqD/ABtS5lXn
 xAkcQVT9gqia13VR3zal2MWpk43KcjNiMGUZVHbxK2IAjTpLOksAxtZdQtmU/wCo
 5wu2k3y1VfsoxxlfIKp+wODvZA06TRF0yqe2NytqFlXS1mGD5QxE1tBrMUY53VDk
-7kbSdlVfvlBiuv5AwO52wPBTf4b8xl0nzgEwDA2O2o+FKnw3ZdUZSvmRNOyo/wAH
-jSpjmZzYjMakRxcYf/sKkc71QtFULsepjsPKrFYtQG5UHmGl+Q02ED47NNKNOks6
-SzpLOksCKNnEepnj0FqEQVAduN5IENUfIWJ59MEjiCqYKonUWahfImtYao+Q1GPk
-/8QAFBEBAAAAAAAAAAAAAAAAAAAAkP/aAAgBAgEBPwFwP//EACMQAAAFBAIDAQEA
+7kbSdlVfvlBiuv5AwO52wPBTf4b8xl0nzgEwDA2O2o+FKnw3ZdUZSrP/8QAFBEBAAAAAAAAAAAAAAAAAAAAkP/aAAgBAgEBPwFwP//EACMQAAIFBAIDAQEA
 AAAAAAAAAAABEBEhIDAxQFFhAhJBIlD/2gAIAQEABj8CtciCED6nwZSSHGpIgSJi
 zJD8mwnR/IlITImdiR0vO3Kv5bvSd7vqSOef7rcLEh/LO26sQ9j3oDL3tErr7EP1
 skrUdCBIzsFV0uUkhnUOuBNWRJCDtyYgP5A0OzwIElVMiK2LIzQdyUkhA5ogd6D1
