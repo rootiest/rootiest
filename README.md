@@ -23,10 +23,12 @@ I'm a software developer and maker currently spending most of my time on [Klippe
 
 My configs are open source and available here:
 
-| Project          | Link                                                                |
-| ---------------- | ------------------------------------------------------------------- |
-| 🗂️ Dotfiles      | [rootiest/dotfiles](https://github.com/rootiest/dotfiles)           |
-| 📝 Neovim Config | [rootiest/rootiest-nvim](https://github.com/rootiest/rootiest-nvim) |
+| Project          | Link                                                                      |
+| ---------------- | ------------------------------------------------------------------------- |
+| 🗂️ Dotfiles      | [rootiest/dotfiles](https://git.rootiest.dev/rootiest/dotfiles)           |
+| 📝 Neovim Config | [rootiest/nvim-config](https://git.rootiest.dev/rootiest/neovim-config)   |
+| 🐟 Fish Config   | [rootiest/fish-config](https://git.rootiest.dev/rootiest/fish-config)     |
+| 🐱 Kitty Config  | [rootiest/kitty-config](https://git.rootiest.dev/rootiest/kitty-config)   |
 
 ---
 
