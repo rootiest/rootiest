@@ -104,10 +104,11 @@ If you need to send me sensitive information or verify my digital signatures, yo
 > My Sieve filters prioritize encrypted mail, so it's less likely to
 > end up in a folder I check infrequently.
 
-- **User:** Chris Laprade (Rootiest) `<chris@rootiest.com>`
-- **Key ID:** `35294DF70BFCE0CB`
-- **Fingerprint:** Run `gpg --fingerprint 35294DF70BFCE0CB` to verify
-- **Download:** [rootiest.asc](https://git.rootiest.dev/rootiest/.profile/raw/branch/main/rootiest.asc)
+- **Main PGP Key:**
+    - **User:** Chris Laprade (Rootiest) `<chris@rootiest.com>`
+    - **Key ID:** `0BFCE0CB`
+    - **Fingerprint:** Run `gpg --fingerprint 0BFCE0CB` to verify
+    - **Download:** [0BFCE0CB.asc](https://git.rootiest.dev/rootiest/.profile/raw/branch/main/0BFCE0CB.asc)
 
 <details>
 <summary>🔑 Click to view Public Key Block</summary>
@@ -259,6 +260,43 @@ qZAA/2M5Y9mo7v1ycbX1avqP0iKaEGdQirm+4x3lRyRrEbsCdMsA/RAY4ujxYgiy
 JsidSCkdAE1O1RKI1BpBVzUW/QZ+Zem/AP99+6B8KtD836rhpYFXK5YM+zFhRzjL
 kjBTTakAdPBSAQ==
 =UFAX
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+</details>
+
+- **Alternate PGP Key:**
+    - **User:** Rootiest `<chris@rootiest.com>`
+    - **Key ID:** `BE354950`
+    - **Fingerprint:** Run `gpg --fingerprint BE354950` to verify
+    - **Download:** [BE354950.asc](https://git.rootiest.dev/rootiest/.profile/raw/branch/main/BE354950.asc)
+
+<details>
+<summary>🔑 Click to view Public Key Block</summary>
+
+```pgp
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEaqru3BYJKwYBBAHaRw8BAQdAn5UByecVlmZY+hfgIyFVQXY2wnRhnkEbG7gY
+D2PhGzW0HVJvb3RpZXN0IDxjaHJpc0Byb290aWVzdC5jb20+iJAEExYKADgWIQRN
+Diz/8rqmpzU2nRnEOpC6vjVJUAUCaqru3AIbAQULCQgHAgYVCgkICwIEFgIDAQIe
+AQIXgAAKCRDEOpC6vjVJUMLHAP9agH0MrTwjw80uRxKcb6gACinErt7X03+FJEcb
+X4toSAEAvPEVZ0AuV1bxs3bC0kXVlbW8VKCbqCHLr5I1Dr1+lAu4MwRqqu9nFgkr
+BgEEAdpHDwEBB0CtsYZ0uL3MIEDM2Jfj5GsoycIX9gLu/qQKfU11bZ/UB4jvBBgW
+CgAgFiEETQ4s//K6pqc1Np0ZxDqQur41SVAFAmqq72cCGwIAgQkQxDqQur41SVB2
+IAQZFgoAHRYhBN8EMAAVo4Gzk8cCdV74qTbxRxQMBQJqqu9nAAoJEF74qTbxRxQM
+JOcBAKxIrJ0pWuwNhXhPWo81EWiJg3eAYm7CWJol5po8dy0lAP9NWj1hyo5PZD1H
+BajwO4Bz/oOVw23axcWhqcG/opbODTZeAQDZvrWdi8y6y1fc3OSEiphnB0+hdBIF
+rd3fUO7VH6rvLwD+K5CAWDFSy2XJ5lDnANoS4yvuSPBoJftkR/SWSSNZggu4OARq
+qu+CEgorBgEEAZdVAQUBAQdALCCdw3bd+0eSrQH+bo6nVBJnkVN8a5ADh6u3MczK
+b3wDAQgHiHgEGBYKACAWIQRNDiz/8rqmpzU2nRnEOpC6vjVJUAUCaqrvggIbDAAK
+CRDEOpC6vjVJUNNBAQDCbUFSRtuAVk247D3GflG6XBO463f/23+GfCbVYtrPbAD/
+fewA2OGxClOA9lfdjTMe76L2p2uGPCSt2ir5gz873wu4MwRqqu+UFgkrBgEEAdpH
+DwEBB0CImu85RfapBTeNRK1br2OI+8TZBkQ8F/HFWpeFOWodzIh4BBgWCgAgFiEE
+TQ4s//K6pqc1Np0ZxDqQur41SVAFAmqq75QCGyAACgkQxDqQur41SVD97wD9G2ax
+6rR+m3Rqk1ixDtmGPbK8zQMtxUBPsAebkpIty5UBALDk29PfsAvytbQeAqpEZseQ
+wCymcqUX41tEsOit3n8C
+=eQLH
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
