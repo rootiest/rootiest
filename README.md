@@ -55,12 +55,12 @@ My configs are open source and available here:
 | ----------------------------------------------------- | --------------------------------------------------------- | -------------------------------------------- |
 | [🐙 Rootiest Gitea](https://git.rootiest.dev)         | [Gitea](https://github.com/go-gitea/gitea)                | Git repository server                        |
 | [📋 Rootiest Gists](https://gists.rootiest.dev)       | [OpenGist](https://github.com/thomiceli/opengist)         | Single-file code & text sharing              |
-| [🔗 Rootiest Shorties](https://url.rootiest.dev)      | [Kutt](https://github.com/thedevs-network/kutt/)          | Short URLs that forward anywhere             |
-| [📝 Rootiest Notes](https://notes.rootiest.dev)       | [Memos](https://github.com/usememos/memos)                | Markdown notes (à la Google Keep)            |
+| [🔗 Rootiest Shorties](https://rootiest.link)         | [Kutt](https://github.com/thedevs-network/kutt/)          | Short URLs that forward anywhere             |
+| [📝 Rootiest Notes](https://notes.rootiest.com)       | [Memos](https://github.com/usememos/memos)                | Markdown notes (à la Google Keep)            |
 | [🔐 Rootiest Vault](https://vault.rootiest.dev)       | [Vaultwarden](https://github.com/dani-garcia/vaultwarden) | BitWarden-compatible password manager        |
 | [⏱️ Rootiest Wakatime](https://wakatime.rootiest.dev) | [WakAPI](https://github.com/muety/wakapi)                 | Coding stats with no retention limits        |
-| [📷 Rootiest Photos](https://photos.rootiest.dev)     | [Immich](https://github.com/immich-app/immich)            | Photo storage & organization _(invite only)_ |
-| [📁 Rootiest Files](https://files.rootiest.dev)       | [SFTPGo](https://github.com/drakkan/sftpgo)               | File server _(invite only)_                  |
+| [📷 Rootiest Photos](https://photos.rootiest.com)     | [Immich](https://github.com/immich-app/immich)            | Photo storage & organization _(invite only)_ |
+| [📁 Rootiest Files](https://files.rootiest.com)       | [SFTPGo](https://github.com/drakkan/sftpgo)               | File server _(invite only)_                  |
 
 > More services will be added over time!
 
@@ -108,7 +108,7 @@ If you need to send me sensitive information or verify my digital signatures, yo
     - **User:** Chris Laprade (Rootiest) `<chris@rootiest.com>`
     - **Key ID:** `0BFCE0CB`
     - **Fingerprint:** Run `gpg --fingerprint 0BFCE0CB` to verify
-    - **Download:** [0BFCE0CB.asc](https://git.rootiest.dev/rootiest/.profile/raw/branch/main/0BFCE0CB.asc)
+    - **Download:** [0BFCE0CB.asc](https://git.rootiest.dev/rootiest/.profile/raw/branch/main/0BFCE0CB.asc) ([https://rootiest.link/pgp2](https://rootiest.link/pgp2))
 
 <details>
 <summary>🔑 Click to view Public Key Block</summary>
@@ -269,7 +269,7 @@ kjBTTakAdPBSAQ==
     - **User:** Rootiest `<chris@rootiest.com>`
     - **Key ID:** `BE354950`
     - **Fingerprint:** Run `gpg --fingerprint BE354950` to verify
-    - **Download:** [BE354950.asc](https://git.rootiest.dev/rootiest/.profile/raw/branch/main/BE354950.asc)
+    - **Download:** [BE354950.asc](https://git.rootiest.dev/rootiest/.profile/raw/branch/main/BE354950.asc) ([https://rootiest.link/pgp](https://rootiest.link/pgp))
 
 <details>
 <summary>🔑 Click to view Public Key Block</summary>
